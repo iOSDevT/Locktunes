@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Locktunes;
+	cell = PSLinkCell;
+	detail = LocktunesListController;
+	icon = Locktunes.png;
+	isController = 1;
+	label = Locktunes;
+    };
+}
